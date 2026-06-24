@@ -189,8 +189,17 @@ The developed model can help financial institutions:
 ---
 
 ## Project Images
+Mix Matrix
+
+
+
 
 ![1](RESOURCES/1.png)
+
+
+Heap Matrix
+
+
 
 ![2](RESOURCES/2.png)
 
